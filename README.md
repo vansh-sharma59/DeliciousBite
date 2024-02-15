@@ -2,7 +2,7 @@
 
 <p>This is a React-powered recipe website. Powered by a dynamic API, it offers a visually pleasing design and real-time updates for an ever-expanding portfolio of delicious dishes. Responsive across devces, it's your go-to destination for culinary inspiration.</p>
 
-👉 Live Demo: <a href='deliciousbite.vercel.app'>DeliciousBite Demo</a>
+👉 Live Demo: <a href='https://deliciousbite.vercel.app'>DeliciousBite Demo</a>
 
 <h3>Build with:</h3>
 
