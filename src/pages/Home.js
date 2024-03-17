@@ -7,6 +7,7 @@ import Testimonial from '../components/Testimonial'
 import Footer from '../components/Footer'
 import Chefs from '../components/Chefs'
 import Explore from '../components/Explore'
+import Popular from '../components/Popular'
 
 function Home() {
   return (
@@ -15,8 +16,9 @@ function Home() {
       <Banner />
       <Categories />
       <Book />
-      <Chefs />
+      <Popular />
       <Explore />
+      <Chefs />
       <Testimonial />
       <Footer />
     </div>
